@@ -2959,6 +2959,7 @@ var cnames_active = {
   "scancell": "russellsteadman.github.io/scancell",
   "scene": "daybrush.github.io/scenejs-page",
   "schema": "hosting.gitbook.com",
+  "scientia": "tahmidandanas-creator.github.io",
   "schema-render": "barrior.github.io/schema-render",
   "schematex": "cname.vercel-dns.com", // noCF
   "schemy": "aeberdinelli.github.io/schemy",
